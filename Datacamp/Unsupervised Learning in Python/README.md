@@ -1,1 +1,4 @@
 
+This is part of my journey through Datacamp for exploring unsupervised learning in python.
+
+Let's say you have a collection of customers with varying characteristics, such as age, location, and financial history. You may have a set of texts, such as Wikipedia pages, that you wish to categorize. In unsupervised learning, you are not guiding, or supervising, the pattern discovery by some prediction task, but instead uncovering hidden structure from unlabeled data. Clustering, dimension reduction, and matrix factorization are all examples of unsupervised learning. Using scikit-learn and SciPy, you will learn the fundamentals of unsupervised learning. Throughout the course, you will learn how to cluster, transform, visualize, and extract insights from unlabeled datasets, and build a recommender system for popular musical artists.
