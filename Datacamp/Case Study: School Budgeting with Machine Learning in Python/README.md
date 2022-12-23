@@ -1,4 +1,4 @@
-# Machine Learning with Tree-Based Models in Python
+# Case Study: School Budgeting with Machine Learning in Python
 
 Course by [DataCamp](https://www.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python)  
 Part of [Data Scientist with Python Track](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)  
