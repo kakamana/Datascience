@@ -1,4 +1,41 @@
-# This set of repositories include my learning journey through [DataCamp](https://datacamp.com/) 
+# Data Scientist with Python
+
+Can be accessed at [Data Scientist with Python Track](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=4)  
+  
+Introduction  
+
+In this track, you'll learn how to import, clean, manipulate, and visualize data-all essential skills for any data professional. With interactive exercises, 
+you'll learn how to use some of the most popular Python libraries, including pandas, NumPy, Matplotlib, and more. To train decision trees and use natural language
+processing (NLP), you'll work with real-world datasets. Grow your Python skills and become a confident data scientist with this track.
+  
+Takeaways:  
+
+- Basic introduction to python. 
+
+- Data manipulation with pandas. 
+
+- Data visualization introduction with Matplotlib & Seaborn
+
+- Data importing through python.
+
+- Data celansing & crunching  with python.
+
+- Exploratory data analysis with python.
+
+- Statistical analysis using python.
+
+- Machine learning with scikit-learn
+
+- Unspurvised learning in python.
+
+- Machine learning with Tree based models in python.
+
+- School budgeting case study with machine learning in python.
+
+- Cluster analysis in python.
+
+
+
 
 
 
