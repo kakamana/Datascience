@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c45946-86e2-44b2-9b5c-2164b99c7176" name="Changes" comment="" />
+    <list default="true" id="18c45946-86e2-44b2-9b5c-2164b99c7176" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS23 - Unsupervised Learning/Visualization with hierarchical clustering and t-SNE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS23 - Unsupervised Learning/Visualization with hierarchical clustering and t-SNE.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS4 - ds toolbox2/.ipynb_checkpoints/List comprehensions and generators-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS4 - ds toolbox2/.ipynb_checkpoints/List comprehensions and generators-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Importing data from other file types-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Importing data from other file types-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Working with relational databases in Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Working with relational databases in Python-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS6 - ImpData2/.ipynb_checkpoints/Interacting with APIs to import data from the web-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS6 - ImpData2/.ipynb_checkpoints/Interacting with APIs to import data from the web-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction to network analysis in python/Bringing it all together - Network Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction to network analysis in python/Bringing it all together - Network Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction to network analysis in python/Important nodes - Network analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction to network analysis in python/Important nodes - Network analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction to network analysis in python/Introduction to networks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction to network analysis in python/Introduction to networks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction to network analysis in python/Structures - Network Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Introduction to network analysis in python/Structures - Network Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine Learning with PySpark - Copy/readme.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -21,18 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kakamana/Library/CloudStorage/OneDrive-Personal/Datascience/Journey/Datacamp/Feature Engineering for Machine Learning in Python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,6 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674798365555</updated>
       <workItem from="1674798367647" duration="1286000" />
+      <workItem from="1679233462367" duration="2781000" />
+      <workItem from="1679285548575" duration="12418000" />
     </task>
     <servers />
   </component>
