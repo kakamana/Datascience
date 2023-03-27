@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18c45946-86e2-44b2-9b5c-2164b99c7176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Model Validation in Python/Basic modeling in scikit-learn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Model Validation in Python/Cross validation in modeling.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Model Validation in Python/Selecting best model with hyperparameter tunning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Model Validation in Python/Validation basic for modeling.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS23 - Unsupervised Learning/Visualization with hierarchical clustering and t-SNE.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS23 - Unsupervised Learning/Visualization with hierarchical clustering and t-SNE.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS4 - ds toolbox2/.ipynb_checkpoints/List comprehensions and generators-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS4 - ds toolbox2/.ipynb_checkpoints/List comprehensions and generators-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Importing data from other file types-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Importing data from other file types-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Working with relational databases in Python-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS5 - ImpData1/.ipynb_checkpoints/Working with relational databases in Python-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS6 - ImpData2/.ipynb_checkpoints/Interacting with APIs to import data from the web-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Case Study School Budgeting with Machine Learning in Python/data from jimmy/Datacamp_DataScienceTrack_Python-master/DS6 - ImpData2/.ipynb_checkpoints/Interacting with APIs to import data from the web-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18c45946-86e2-44b2-9b5c-2164b99c7176" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +52,7 @@
       <workItem from="1674798367647" duration="1286000" />
       <workItem from="1679233462367" duration="2781000" />
       <workItem from="1679285548575" duration="12418000" />
+      <workItem from="1679649023180" duration="597000" />
     </task>
     <servers />
   </component>
